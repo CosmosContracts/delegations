@@ -24,7 +24,9 @@ By submitting a delegation request [here](https://forms.gle/jkGKcxud2vswEA7Y8). 
 
 ## 1.6 Delegation epoch
 
-Delegations will be made for a set time period. This period is known as an epoch. The epoch will be marked by a Juno Network block number which will be provided after applications are scored and delegations are made. The epoch length is determined by the SubDAO.
+Delegations will be made for a set period. This period is known as an epoch. The epoch will be marked by a Juno Network block number which will be provided after applications are scored and delegations are made. The epoch length is determined by the SubDAO.
+
+The current epoch length is 3 months as decided by [SubDAO proposal A3](https://daodao.zone/dao/juno1rw92sps9q4mm7ll3x9apnunlckchmn3v7cttchsf48dcdyajzj2sajfxcn/proposals/A3)
 
 ## 1.7 Determination of individual delegation amounts
 
