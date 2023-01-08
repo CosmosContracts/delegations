@@ -6,7 +6,7 @@ The Juno Delegation Program (JDP) is part of the Juno Delegations SubDAO, which 
 
 ## 1.2 Why do we have a delegation program?
 
-The three core components of any distributed proof of stake blockchain are delegators, validators and the founding team. As the blockchain matures, additional roles are required to assist with community engagement and support to build on foundations set from genesis. Typical members/roles added include developers, marketing managers, and community managers. As Juno is a DAO-based blockchain, managing delegations to validators from the Juno Development Fund has been (primarily) moved from C-Root to the Juno Delegation SubDAO.
+The three core components of any distributed proof of stake blockchain are delegators, validators and the founding team. As the blockchain matures, additional roles are required to assist with community engagement and support to build on foundations set from genesis. Typical members/roles added include developers, marketing managers, and community managers. As Juno is a DAO-based blockchain, managing delegations to validators from the Juno Development Fund has been (primarily) moved from the founding team (aka "C-Root") to the Juno Delegation SubDAO.
 
 ## 1.3 The objectives of the Juno Delegation Program are:
 
