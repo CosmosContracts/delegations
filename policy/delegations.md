@@ -79,21 +79,19 @@ If a Validator has received a delegation and is found to no longer meet the mini
 
 ***2.1.5 Exchange validators*** – The validator must not be owned and/or operated by a centralized exchange.
 
-***2.1.6 Minimum gas settings*** – The validator must have minimum gas prices set in the `config.toml` file equal to or greater than the recommended settings in the Juno docs.
+***2.1.6 Governance participation*** – The validator must have voted on **80%** or more of governance proposals the enter the voting phase during the epoch.
 
-***2.1.7 Governance participation*** – The validator must have voted on **80%** or more of governance proposals the enter the voting phase during the epoch.
-
-***2.1.8 Uptime*** – The validator uptime during the previous epoch must be **95%** or greater. Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
+***2.1.7 Uptime*** – The validator uptime during the previous epoch must be **95%** or greater. Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
 
 $$Uptime = {\frac{no.\ signed\ blocks}{no.\ blocks\ in\ epoch}*100}$$
 
-***2.1.9 Downtime slashing*** – The validator must not be slashed for downtime more than once during the previous epoch. 
+***2.1.8 Downtime slashing*** – The validator must not be slashed for downtime more than once during the previous epoch. 
 
-***2.1.10 Doublesign slashing*** – A validator that has double-signed will not be considered for the program. If part of special circumstances (e.g. the Project Team had given wrong instructions) exceptions for a hard slash can be made.
+***2.1.9 Doublesign slashing*** – A validator that has double-signed will not be considered for the program. If part of special circumstances (e.g. the Project Team had given wrong instructions) exceptions for a hard slash can be made.
 
-***2.1.11 Multiple validators*** - One delegation per entity is allowed. Therefore, the term validator in this document also refers to the respective organization/brand/individual or otherwise, and not only to the specific on-chain validator.
+***2.1.10 Multiple validators*** - One delegation per entity is allowed. Therefore, the term validator in this document also refers to the respective organization/brand/individual or otherwise, and not only to the specific on-chain validator.
 
-***2.1.12 White-label validators*** - A validator that is “white-labeled”, operates a revenue split, or is not run wholly by the team applying for the delegation is ineligible for a delegation.
+***2.1.11 White-label validators*** - A validator that is “white-labeled”, operates a revenue split, or is not run wholly by the team applying for the delegation is ineligible for a delegation.
 
 ## 2.2 Technical Criteria
 
