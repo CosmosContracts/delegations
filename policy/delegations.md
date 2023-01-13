@@ -81,7 +81,7 @@ If a Validator has received a delegation and is found to no longer meet the mini
 
 ***2.1.5 Exchange validators*** – The validator must not be owned and/or operated by a centralized exchange.
 
-***2.1.6 Governance participation*** – The validator must have voted on **80%** or more of governance proposals the enter the voting phase during the epoch.
+***2.1.6 Governance participation*** – The validator must have voted on **80%** or more of governance proposals that enter the voting phase during the epoch.
 
 ***2.1.7 Uptime*** – The validator uptime during the previous epoch must be **95%** or greater. Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
 
