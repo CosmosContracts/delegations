@@ -208,6 +208,8 @@ Points are decided by the SubDAO.
 
 This criterion is separate from the minimum governance voting participation outlined in section 2.1.7
 
+### 2.3.3 NOT USED
+
 ### 2.3.4 Self-bonded token (Max. 500 points)
 
 Points are awarded for a validator's self-stake compared to the total amount staked to the validator. The minimum required self-stake is 0.1% of the total staked and 500 JUNO to be eligible for this criteria.
