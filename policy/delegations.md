@@ -200,7 +200,7 @@ Some examples of these activities are provided below:
 
 - Publish valuable content online (Medium, Twitter threads, etc) that highlights Juno and Applications on the Juno Network.
 
-### 2.3.2 Active participation in governance (Max. 1000 points)
+### 2.3.2 Active participation in governance (Max. 1500 points)
 
 Points are awarded for active participation in governance including taking part in discussions on commonwealth.im both before a proposal goes on-chain and during the voting period.
 
@@ -208,11 +208,7 @@ Points are decided by the SubDAO.
 
 This criterion is separate from the minimum governance voting participation outlined in section 2.1.7
 
-### 2.3.3 Commission re-staking (Max. 500 points)
-
-Points are awarded for the portion of validator rewards that are re-staked to the validator during the previous epoch.
-
-$$ points = \frac {commission\ re-staked}{commission\ received} * 1,000 , max\ 500$$
+### 2.3.3 NOT USED
 
 ### 2.3.4 Self-bonded token (Max. 500 points)
 
