@@ -1,218 +1,85 @@
 # 1. Juno Delegation Program
 
-## 1.1 Juno Delegations SubDAO Inception
+Looking forward to the Juno Roadmap accomplishment, Juno needs a new revised a more focused delegation program. Targeting similar objectives of the Roadmap, the new program is focused on dAPP Developers, Infrastructure providers, and content creation.
 
-The Juno Delegation Program (JDP) is part of the Juno Delegations SubDAO, which was established through Juno governance according to [proposal #50](https://www.mintscan.io/juno/proposals/50 "Juno Network Governance Proposal no. 50 on Mintscan").
+## Objectives of the program
 
-## 1.2 Why do we have a delegation program?
+- Incentivize dAPP building on the Juno network stack
+- Incentivize infrastructure services provided by validators
+- Incentivize community activities and marketing
+- Participation in network governance and discussions
 
-The three core components of any distributed proof of stake blockchain are delegators, validators and the founding team. As the blockchain matures, additional roles are required to assist with community engagement and support to build on foundations set from genesis. Typical members/roles added include developers, marketing managers, and community managers. As Juno is a DAO-based blockchain, managing delegations to validators from the Juno Development Fund has been (primarily) moved from the founding team (aka "C-Root") to the Juno Delegation SubDAO.
+## Delegation Program definition
 
-## 1.3 The objectives of the Juno Delegation Program are:
+With this program we are going to delegate a total of **15,000,000 $JUNO**.
 
-***1.3.1*** To provide the Juno Development Fund with an ongoing income stream from staking rewards which will be used for the future development of the Juno Network.
+### Schedule
 
-***1.3.2*** Reward validators that contribute to the Juno Network, via staking JUNO with them, which provides a continual revenue stream via commission.
+| Period       | Description                                                   | Timeline                |
+| ------------ | ------------------------------------------------------------- | ----------------------- |
+| Applications | Period when validators can apply for delegations              | April 14th - April 28th |
+| Evaluation   | Period when applications will be reviewed and points assigned | April 28th - May 9th    |
+| Deployment   | Period when delegations will be deployed onchain              | May 9th - May 19th      |
+| Delegations  | Lenght of the delegations before a new program is spun up     | 6-12 months             |
 
-## 1.4 Who can apply for the delegation program?
+### Categories and points allocation
 
-Any entity running a validator node on the Juno Network that satisfies the minimum requirements outlined in section 2.1
+| Category           | Description                                                                                                                                                       | Examples                                                                                                    | Maximum Points |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------- |
+| Special Agreements | This category is for special agreements between validator and core teams. It's used when validator provide a service that doesn't fit any of the other categories | Market making, cex listings, other non-discolsable agreements                                               | 25             |
+| dAPPs              | Build anything on Juno                                                                                                                                            | AMMs, Lending protocols, NFT projects, Games etc.                                                           | 25             |
+| Mainnet Infra      | Provide infrastructure services on Mainnet                                                                                                                        | IBC Relayers, RPC endpoints, Archive nodes, Explorers etc.                                                  | 15             |
+| Testnet Infra      | Provide infrastructure services on Testnet                                                                                                                        | Run a validator and keep it updated, RPC endpoints, Explorers etc.                                          | 10             |
+| Governance         | Contribute to on-chain governance                                                                                                                                 | Propose stuff, contribute to discussions, vote most of the governance proposals, provide governance reports | 10             |
+| Community          | Contribute to community growth                                                                                                                                    | Community activities on social medias, blog posts, events                                                   | 10             |
 
-## 1.5 How can a validator apply for a delegation?
+Validators are free to apply to one, multiple or even all categories. Maximum points per validator are 70. Points will be discretionally assigned by the review committee and published after review is completed with reasonings.
 
-By submitting a delegation request [here](https://forms.gle/jkGKcxud2vswEA7Y8). The form will only be open for submissions during delegation application collection periods. These periods will be announced on the @JunoNetwork Twitter account.
+### dAPPs
 
-## 1.6 Delegation epoch
+All the dAPPs built on Juno are eligible for a delegation, present past and future. Points will be assigned discrtionally by the review team based on the impact the dAPP has on the network in terms of user engagement, transaction fees, and other factors.
 
-Delegations will be made for a set period. This period is known as an epoch. The epoch will be marked by a Juno Network block number which will be provided after applications are scored and delegations are made. The epoch length is determined by the SubDAO.
+dAPPs deployed on multiple networks are eligible too, but Juno exclusive are rewarded more.
 
-The current epoch length is 3 months as decided by [SubDAO proposal A3](https://daodao.zone/dao/juno1rw92sps9q4mm7ll3x9apnunlckchmn3v7cttchsf48dcdyajzj2sajfxcn/proposals/A3)
+### Delegation calculation
 
-## 1.7 Determination of individual delegation amounts
+Delegations will be propotional to the points earned by the specific validator in comparison to the total points assigned.
 
-The total amount that will be delegated to each validator will be a function of the total amount allocated to be delegated by the Juno Development Fund, the total score earned by the validator (resultant from assessment of application), and the points multiplier to be applied as per section 1.8.
+$$
+\text{delegation} = \left( \frac{15{,}000{,}000}{\text{total points}} \right) \times \text{points of validator}
+$$
 
-## 1.8 Points multiplier
+### Who can Apply? Validator requirements
 
-To help promote a healthy distribution of stake across the validator set, a multiplier will be applied to the validator's total points.
+Validators need to match the following requirements in order to be eligible for a delegation:
 
-The multiplier will range from 1.0 to 1.1 where the lowest-ranked validator will have a 1.1x multiplier applied and the 11th-ranked validator will have a 1x multiplier.
+1. Provide precise and timely information to the application form
+1. Have all the onchain validator informations updated, including Moniker, security contact, logo, description
+1. Validator commission should be equal or lower than 10%
+1. Validator should not provide services like "commission rebate" for its own stakers
+1. Validator should have an uptime of 95% or greater, at the moment of delegation reviewing.
+1. Validator should never been slashed for double sign or downtime in the past year.
+1. Have a validator created before April 2025, doesn't matter if in active set or not.
 
-| Rank  | Multiplier    |
-| ---   | ---           |
-| 11    | 1             |
-| rank  | $$1+((rank-10)* 0.000714285714286)$$ |
-| 150   | 1.1           |
+### Kintsugi Validator and Conflict of interest
 
+Since Kintsugi will be one of the main reviewer of applications, we are going to publish here the points we propose to assign to ourseves, so that community can agree on this by voting the proposal.
 
+| Category         | Reason                                                                                                                                                                                                                        | Points |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| dAPPs            | As for roadmap proposal 4, we are going to build the Juno Portal. That will be a key element for the Juno defi ecosystem. Additionally we also build [deQuiz](https://dequiz.zone) and new versions for it will be soon live. | 25     |
+| Mainnet Infra    | We are running at our own expenses all the official endpoints for mainnet, including an Archive node with historical mainnet snapshots, and public high-availability rpc endpoints but we don't run relayers                  | 10     |
+| Testnet Infra    | We are literally managing the whole testnet setup, validator coordination, public faucet and rpc endpoints                                                                                                                    | 10     |
+| Governance       | All the principal governance proposals are made by our team                                                                                                                                                                   | 10     |
+| Community        | Just some x threads and articles                                                                                                                                                                                              | 2      |
+| Special projects | Nothing                                                                                                                                                                                                                       | 0      |
 
-# 2. Delegation Criteria
+Total Kintsugi points: 57
 
-The delegation criteria have been developed with the best interest of the Juno Network and the Juno Community in mind. The criteria aim to incentivize desirable outcomes for the Juno Network including:
+## Disclosure
 
-- Decentralized, reliable and trusted network of validators.
-- Retaining full network history.
-- Robust IBC relayer network.
-- Robust and accessible network of RPC and API nodes.
-- Development of the core network binary.
-- Development of ecosystem dApps and tooling.
-- Participation in network governance and governance discussions.
-- Social participation in the network ecosystem.
+We reserve the right to withdraw the delegation at any time in case the validator doesn't meet anymore the criteria or doesn't fullfill the promises made during the application.
 
-## 2.1 Minimum Requirements
+## Apply
 
-A Validator must satisfy the minimum requirements of the program. These requirements are scored as ***pass/fail***. If any of the minimum requirements are not met, the validator will not be considered for a delegation and the application will be rejected.
-
-If a Validator has received a delegation and is found to no longer meet the minimum requirements at any point during the epoch, the delegation will be removed.
-
-***2.1.1 Submission of application*** – An application must be submitted to the SubDAO as detailed in section 1.5
-
-***2.1.2 Validator information*** – The validator must have accurate on-chain information including:
-
-***2.1.2 (a)*** a minimum of one (1) form of contact information (e.g Twitter, Telegram, Email etc).
-
-***2.1.2 (b)*** a security contact. A verification email will be sent to the address provided for confirmation.
-
-***2.1.2 (c)*** a logo/avatar has been submitted to the Mintscan explorer GitHub repository and merged.
-
-***2.1.3 Maximum commission*** – The validator must have a commission rate lower than or equal to 10%.
-
-***2.1.4 Maximum rank*** – The validator must be ranked outside the top 10 validators, ranked by bonded voting power.
-
-***2.1.5 Exchange validators*** – The validator must not be owned and/or operated by a centralized exchange.
-
-***2.1.6 Governance participation*** – The validator must have voted on **80%** or more of governance proposals that enter the voting phase during the epoch.
-
-***2.1.7 Uptime*** – The validator uptime during the previous epoch must be **95%** or greater. Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
-
-$$Uptime = {\frac{no.\ signed\ blocks}{no.\ blocks\ in\ epoch}*100}$$
-
-***2.1.8 Downtime slashing*** – The validator must not be slashed for downtime more than once during the previous epoch. 
-
-***2.1.9 Doublesign slashing*** – A validator that has double-signed will not be considered for the program. If part of special circumstances (e.g. the Project Team had given wrong instructions) exceptions for a hard slash can be made.
-
-***2.1.10 Multiple validators*** - One delegation per entity is allowed. Therefore, the term validator in this document also refers to the respective organization/brand/individual or otherwise, and not only to the specific on-chain validator.
-
-***2.1.11 White-label validators*** - A validator that is “white-labeled”, operates a revenue split, or is not run wholly by the team applying for the delegation is ineligible for a delegation.
-
-## 2.2 Technical Criteria
-
-Technical criteria are assessed by the SubDAO. These items are not considered mandatory, however, they will contribute to the overall score of the applicant.
-
-### 2.2.1 Core development (Max. 3000 points)
-
-Awarded for applicant's contribution to the Juno Network code base. Organizations that are otherwise employed by the Juno Network for their contributions will not be awarded points in this category. 
-
-Contributions must be merged into the Juno Network code base to be considered for assessment.
-
-The score awarded is determined by the SubDAO.
-
-### 2.2.2 Non-core development (Max. 2500 points)
-
-Awarded for applicant's ongoing development of open-source dApps, smart contracts, community tooling, etc.
-
-The score awarded is determined by the SubDAO.
-
-### 2.2.3 Relayer operation (Max. 2000 points)
-
-Awarded for relayer operations during the previous epoch.
-
-The following relay channels are included in this category:
-
-| Network | Channel |
-| --- | --- |
-| Cosmos | channel-1 |
-| Osmosis | channel-0 |
-| Evmos | channel-70 |
-| Stargaze | channel-20 |
-| Omniflix | channel-78 |
-| Kujira | channel-87 |
-| Axelar | channel-71 |
-| Secret | channel-48 |
-
-The score awarded is calculated as a percentage of successful relay transactions vs the total successful transactions over the previous epoch period.
-
-There is a total score pool of 30,000 points. The maximum score is limited to 2,000 points.
-
-$$score = \frac {applicant\ transactions}{total\ transactions}*30,000 , max\ 2,000$$
-
-### 2.2.4 Mainnet public archive node (Max. 1500 points)
-
-Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
-
-$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1500$$
-
-Uptime is determined by heartbeat monitoring.
-
-Operators must submit the archive node address to the SubDAO when the node is brought online such that it can be monitored for consideration in the next round.
-
-### 2.2.5 Mainnet public RPC/API node (Max. 1000 points)
-
-Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
-
-$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1000$$
-
-Uptime is determined by heartbeat monitoring. 
-
-Operators must submit the API/RPC node address to the SubDAO when the node is brought online such that it can be monitored for consideration in the next round.
-
-The RPC/API node will be added to the Juno Network public proxy.
-
-Required services - RPC, gRPC, API.
-
-### 2.2.6 Testnet validator node (1000 points)
-
-Points are awarded for the operation of a validator on the most current testnet. The testnet validator uptime during the previous epoch must be **95%** or greater.
-
-Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
-
-### 2.2.7 Testnet public RPC/API node (Max. 1000 points)
-
-Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
-
-$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1000$$
-
-Uptime is determined by heartbeat monitoring. 
-
-Operators must submit the API/RPC node address to the SubDAO when the node is brought online such that it can be monitored for consideration in the next round.
-
-The RPC/API node will be added to the Juno Network public proxy.
-
-Required services - RPC, gRPC, API.
-
-## 2.3 Non-technical Criteria
-
-Non-technical criteria are assessed by the SubDAO. These items are not considered mandatory, however, they will contribute to the overall score of the applicant.
-
-### 2.3.1 Ecosystem participation (Max. 2000 points)
-
-Participation in the Juno ecosystem score (Social media, Telegram, Discord, writing documentation, guides, posts etc.). 
-
-Points are decided by the SubDAO. 
-
-Some examples of these activities are provided below:
-
-- Moderate non-English local language community - so long as there are no other funding sources for this work. The moderation of these channels must be provided for at least 5 days per week.
-
-- Promote Juno through social activities like Podcasts, Youtube, Twitter Spaces, etc.
-
-- Provide and maintain training and onboarding content to help lower the barrier of entry to end-users, while promoting the secure use of wallets and applications.
-
-- Publish valuable content online (Medium, Twitter threads, etc) that highlights Juno and Applications on the Juno Network.
-
-### 2.3.2 Active participation in governance (Max. 1500 points)
-
-Points are awarded for active participation in governance including taking part in discussions on commonwealth.im both before a proposal goes on-chain and during the voting period.
-
-Points are decided by the SubDAO.
-
-This criterion is separate from the minimum governance voting participation outlined in section 2.1.7
-
-### 2.3.3 NOT USED
-
-### 2.3.4 Self-bonded token (Max. 500 points)
-
-Points are awarded for a validator's self-stake compared to the total amount staked to the validator. The minimum required self-stake is 0.1% of the total staked and 500 JUNO to be eligible for this criteria.
-
-$$points = \frac {self\ bonded}{voting\ power} * 10,000, max\ 500$$
-
+Validators can apply using this form: **TBD**
