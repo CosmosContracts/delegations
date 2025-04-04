@@ -1,85 +1,85 @@
 # 1. Juno Delegation Program
 
-Looking forward to the Juno Roadmap accomplishment, Juno needs a new revised a more focused delegation program. Targeting similar objectives of the Roadmap, the new program is focused on dAPP Developers, Infrastructure providers, and content creation.
+In alignment with the Juno Roadmap, the network requires a revised and more focused delegation program. Targeting the same objectives as the Roadmap, this new program is centered around dApp developers, infrastructure providers, and content creators.
 
-## Objectives of the program
+## Program Objectives
 
-- Incentivize dAPP building on the Juno network stack
-- Incentivize infrastructure services provided by validators
-- Incentivize community activities and marketing
-- Participation in network governance and discussions
+- Incentivize dApp development on the Juno network stack
+- Support infrastructure services provided by validators
+- Encourage community engagement and marketing efforts
+- Promote participation in network governance and discussions
 
-## Delegation Program definition
+## Delegation Program Definition
 
-With this program we are going to delegate a total of **15,000,000 $JUNO**.
+Through this program, we will delegate a total of **15,000,000 $JUNO**.
 
 ### Schedule
 
 | Period       | Description                                                   | Timeline                |
 | ------------ | ------------------------------------------------------------- | ----------------------- |
-| Applications | Period when validators can apply for delegations              | April 14th - April 28th |
-| Evaluation   | Period when applications will be reviewed and points assigned | April 28th - May 9th    |
-| Deployment   | Period when delegations will be deployed onchain              | May 9th - May 19th      |
-| Delegations  | Lenght of the delegations before a new program is spun up     | 6-12 months             |
+| Applications | Period during which validators can apply for delegations      | April 14th – April 28th |
+| Evaluation   | Applications will be reviewed and points assigned             | April 28th – May 9th    |
+| Deployment   | Delegations will be deployed on-chain                         | May 9th – May 19th      |
+| Delegations  | Duration of the delegations before a new program is initiated | 6–12 months             |
 
-### Categories and points allocation
+### Categories and Points Allocation
 
-| Category           | Description                                                                                                                                                       | Examples                                                                                                    | Maximum Points |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------- |
-| Special Agreements | This category is for special agreements between validator and core teams. It's used when validator provide a service that doesn't fit any of the other categories | Market making, cex listings, other non-discolsable agreements                                               | 25             |
-| dAPPs              | Build anything on Juno                                                                                                                                            | AMMs, Lending protocols, NFT projects, Games etc.                                                           | 25             |
-| Mainnet Infra      | Provide infrastructure services on Mainnet                                                                                                                        | IBC Relayers, RPC endpoints, Archive nodes, Explorers etc.                                                  | 15             |
-| Testnet Infra      | Provide infrastructure services on Testnet                                                                                                                        | Run a validator and keep it updated, RPC endpoints, Explorers etc.                                          | 10             |
-| Governance         | Contribute to on-chain governance                                                                                                                                 | Propose stuff, contribute to discussions, vote most of the governance proposals, provide governance reports | 10             |
-| Community          | Contribute to community growth                                                                                                                                    | Community activities on social medias, blog posts, events                                                   | 10             |
+| Category           | Description                                                                                                                       | Examples                                                                   | Max Points |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| Special Agreements | For special agreements between validators and core teams. Used when a validator provides services not covered by other categories | Market making, CEX listings, other non-disclosable agreements              | 25         |
+| dApps              | Building on Juno                                                                                                                  | AMMs, lending protocols, NFT projects, games, etc.                         | 25         |
+| Mainnet Infra      | Infrastructure services on Mainnet                                                                                                | IBC relayers, RPC endpoints, archive nodes, explorers                      | 15         |
+| Testnet Infra      | Infrastructure services on Testnet                                                                                                | Validator setup and updates, RPC endpoints, explorers                      | 10         |
+| Governance         | Contributions to on-chain governance                                                                                              | Proposal submissions, discussions, voting on proposals, governance reports | 10         |
+| Community          | Contributions to community growth                                                                                                 | Social media content, blog posts, events                                   | 10         |
 
-Validators are free to apply to one, multiple or even all categories. Maximum points per validator are 70. Points will be discretionally assigned by the review committee and published after review is completed with reasonings.
+Validators may apply to one, multiple, or all categories. The maximum number of points per validator is 70. Points will be assigned at the discretion of the review committee and published after the review, along with reasoning.
 
-### dAPPs
+### dApps
 
-All the dAPPs built on Juno are eligible for a delegation, present past and future. Points will be assigned discrtionally by the review team based on the impact the dAPP has on the network in terms of user engagement, transaction fees, and other factors.
+All dApps built on Juno—past, present, or future—are eligible for delegation. Points will be awarded at the discretion of the review team, based on the dApp's impact on the network, including user engagement, transaction volume, and other relevant factors.
 
-dAPPs deployed on multiple networks are eligible too, but Juno exclusive are rewarded more.
+Multi-chain dApps are also eligible, but Juno-exclusive deployments will receive higher rewards.
 
-### Delegation calculation
+### Delegation Calculation
 
-Delegations will be propotional to the points earned by the specific validator in comparison to the total points assigned.
+Delegations will be proportional to the number of points earned by each validator relative to the total points assigned.
 
 $$
 \text{delegation} = \left( \frac{15{,}000{,}000}{\text{total points}} \right) \times \text{points of validator}
 $$
 
-### Who can Apply? Validator requirements
+### Who Can Apply? Validator Requirements
 
-Validators need to match the following requirements in order to be eligible for a delegation:
+Validators must meet the following criteria to be eligible for delegation:
 
-1. Provide precise and timely information to the application form
-1. Have all the onchain validator informations updated, including Moniker, security contact, logo, description
-1. Validator commission should be equal or lower than 10%
-1. Validator should not provide services like "commission rebate" for its own stakers
-1. Validator should have an uptime of 95% or greater, at the moment of delegation reviewing.
-1. Validator should never been slashed for double sign or downtime in the past year.
-1. Have a validator created before April 2025, doesn't matter if in active set or not.
+1. Submit accurate and complete information in the application form
+2. Ensure all on-chain validator information is up to date, including moniker, security contact, logo, and description
+3. Maintain a commission rate equal to or below 10%
+4. Refrain from offering "commission rebates" to their own delegators
+5. Maintain at least 95% uptime at the time of evaluation
+6. Have no slashing history for double signing or downtime in the past year
+7. Be created before April 2025 (presence in the active set is not required)
 
-### Kintsugi Validator and Conflict of interest
+### Kintsugi Validator & Conflict of Interest
 
-Since Kintsugi will be one of the main reviewer of applications, we are going to publish here the points we propose to assign to ourseves, so that community can agree on this by voting the proposal.
+Since Kintsugi will be one of the main reviewers of the applications, we are publishing the points we propose for ourselves here. The community will be able to approve or reject these through a vote on the proposal.
 
-| Category         | Reason                                                                                                                                                                                                                        | Points |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| dAPPs            | As for roadmap proposal 4, we are going to build the Juno Portal. That will be a key element for the Juno defi ecosystem. Additionally we also build [deQuiz](https://dequiz.zone) and new versions for it will be soon live. | 25     |
-| Mainnet Infra    | We are running at our own expenses all the official endpoints for mainnet, including an Archive node with historical mainnet snapshots, and public high-availability rpc endpoints but we don't run relayers                  | 10     |
-| Testnet Infra    | We are literally managing the whole testnet setup, validator coordination, public faucet and rpc endpoints                                                                                                                    | 10     |
-| Governance       | All the principal governance proposals are made by our team                                                                                                                                                                   | 10     |
-| Community        | Just some x threads and articles                                                                                                                                                                                              | 2      |
-| Special projects | Nothing                                                                                                                                                                                                                       | 0      |
+| Category         | Reason                                                                                                                                                                                              | Points |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| dApps            | As per Roadmap Proposal 4, we are building the Juno Portal—key infrastructure for Juno's DeFi ecosystem. Additionally, we’ve built [deQuiz](https://dequiz.zone), with new versions launching soon. | 25     |
+| Mainnet Infra    | We maintain all official Mainnet endpoints at our own expense, including an archive node with historical snapshots and high-availability RPCs (we do not run relayers).                             | 10     |
+| Testnet Infra    | We manage the entire Testnet setup, validator coordination, public faucet, and RPC endpoints.                                                                                                       | 10     |
+| Governance       | Most major governance proposals originate from our team.                                                                                                                                            | 10     |
+| Community        | Contributions include some X threads and articles.                                                                                                                                                  | 2      |
+| Special Projects | None                                                                                                                                                                                                | 0      |
 
-Total Kintsugi points: 57
+**Total Kintsugi Points: 57**
 
 ## Disclosure
 
-We reserve the right to withdraw the delegation at any time in case the validator doesn't meet anymore the criteria or doesn't fullfill the promises made during the application.
+We reserve the right to withdraw the delegation at any time if the validator no longer meets the requirements or fails to deliver on the commitments made in their application.
 
 ## Apply
 
-Validators can apply using this form: **TBD**
+Validators can apply using the following form: **TBD**
