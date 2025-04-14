@@ -32,6 +32,7 @@ Through this program, we will delegate a total of **15,000,000 $JUNO**.
 | Testnet Infra      | Infrastructure services on Testnet                                                                                                | Validator setup and updates, RPC endpoints, explorers                      | 10         |
 | Governance         | Contributions to on-chain governance                                                                                              | Proposal submissions, discussions, voting on proposals, governance reports | 10         |
 | Community          | Contributions to community growth                                                                                                 | Social media content, blog posts, events                                   | 10         |
+| Open Category      | Anything else that doesn't fit the other categories                                                                               | You did something crazy                                                    | 25         |
 
 Validators may apply to one, multiple, or all categories. The maximum number of points per validator is 70. Points will be assigned at the discretion of the review committee and published after the review, along with reasoning.
 
