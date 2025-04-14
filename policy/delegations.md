@@ -1,4 +1,4 @@
-# 1. Juno Delegation Program
+# Juno Delegation Program
 
 In alignment with the Juno Roadmap, the network requires a revised and more focused delegation program. Targeting the same objectives as the Roadmap, this new program is centered around dApp developers, infrastructure providers, and content creators.
 
@@ -34,7 +34,7 @@ Through this program, we will delegate a total of **15,000,000 $JUNO**.
 | Community          | Contributions to community growth                                                                                                 | Social media content, blog posts, events                                   | 10         |
 | Open Category      | Anything else that doesn't fit the other categories                                                                               | You did something crazy                                                    | 25         |
 
-Validators may apply to one, multiple, or all categories. The maximum number of points per validator is 70. Points will be assigned at the discretion of the review committee and published after the review, along with reasoning.
+Validators may apply to one, multiple, or all categories. The maximum number of points per validator is 120. Points will be assigned at the discretion of the review committee and published after the review, along with reasoning.
 
 ### dApps
 
@@ -74,6 +74,7 @@ Since Kintsugi will be one of the main reviewers of the applications, we are pub
 | Governance       | Most major governance proposals originate from our team.                                                                                                                                            | 10     |
 | Community        | Contributions include some X threads and articles.                                                                                                                                                  | 2      |
 | Special Projects | None                                                                                                                                                                                                | 0      |
+| Open category    | None                                                                                                                                                                                                | 0      |
 
 **Total Kintsugi Points: 57**
 
