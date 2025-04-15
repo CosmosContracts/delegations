@@ -3,7 +3,7 @@
 ## Description
 
 Experience in the field of information technology for over 15 years.
-In my work I use only high-quality VPS\Dedicated Servers from well-known and reliable data centers - OVH Hetzner Vultr
+In my work I use only high-quality VPS\Dedicated Servers from well-known and reliable data centers - OVH Hetzner Vultr.
 Has successfully participated in many testnets and support the work of my validators on MainNet networks (Yurbason moniker) - Certik, Fetch.Ai, Gravity-Bridge, FirmaChain, Solana, Marlin Relay Cluster, Nym MixNode, Gitopia, Haqq, Massa
 
 ## Validator details
