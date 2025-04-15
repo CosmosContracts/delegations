@@ -15,12 +15,12 @@ Through this program, we will delegate a total of **15,000,000 $JUNO**.
 
 ### Schedule
 
-| Period       | Description                                                   | Timeline                |
-| ------------ | ------------------------------------------------------------- | ----------------------- |
-| Applications | Period during which validators can apply for delegations      | April 14th – April 28th |
-| Evaluation   | Applications will be reviewed and points assigned             | April 28th – May 9th    |
-| Deployment   | Delegations will be deployed on-chain                         | May 9th – May 19th      |
-| Delegations  | Duration of the delegations before a new program is initiated | 6–12 months             |
+| Period       | Description                                                   | Timeline             |
+| ------------ | ------------------------------------------------------------- | -------------------- |
+| Applications | Period during which validators can apply for delegations      | April 15th – May 2nd |
+| Evaluation   | Applications will be reviewed and points assigned             | April 28th – May 9th |
+| Deployment   | Delegations will be deployed on-chain                         | May 9th – May 16th   |
+| Delegations  | Duration of the delegations before a new program is initiated | 6–12 months          |
 
 ### Categories and Points Allocation
 
@@ -84,4 +84,4 @@ We reserve the right to withdraw the delegation at any time if the validator no 
 
 ## Apply
 
-Validators can apply using the following form: **TBD**
+To apply for the program fork this repository and create a pull request with a new file in the folder "applications/2025-1" named "name_of_validator.md", for example "kintsugi.md". Base the file on this [template](https://github.com/CosmosContracts/delegations/blob/main/applications/2025-1/_template.md).
