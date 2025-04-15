@@ -8,43 +8,11 @@ Brief introduction of your validator, how's your team, what's are your objective
 
 | Field          | Value                   |
 | -------------- | ----------------------- |
-| **Moniker**    | your moniker            |
-| **Commission** | your current commission |
-| **Address**    | juno1valoper...         |
+| **Moniker**    | Life and Crypto by LittleFox            |
+| **Commission** | 5% |
+| **Address**    | junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85        |
 
 ## Categories
-
-### dAPPs - Any decentralized application built on top of Juno
-
-Fill this category if you are building anything on Juno. One row per project.
-
-| Name         | Description         | Relevant URLs | Is the project Live?   |
-| ------------ | ------------------- | ------------- | ---------------------- |
-| Project name | Project description | Relevant URLS | Live/Building/Prospect |
-
-### Mainnet Infra
-
-Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive nodes, etc?
-
-| Service       | Description                                      | Relevant URLs                  | Additional Details            |
-| ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| Relayer       | We relay the following channels ...              | Explorer url of your addresses | -                             |
-| RPCs          | We provide public RPCs / LCD / gRPC endpoints    | URL of your endpoints          | i.e. number of requests, logs |
-| Archive nodes | We provide archive nodes from block x to block y | URL of archive node            |                               |
-| Explorer      | We run the following explorer                    | Explorer url                   |                               |
-| Other         | anything else                                    |                                |                               |
-
-### Testnet Infra
-
-Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive nodes, etc?
-
-| Service           | Description                                                         | Relevant URLs            | Additional Details                                                              |
-| ----------------- | ------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------- |
-| Validator         | We run a validator on testnet                                       | Address of th evalidator | Average response time, other factors that indicate your activity on the testnet |
-| RPCs              | We provide public RPCs / LCD / gRPC endpoints                       | URL of your endpoints    | i.e. number of requests, logs                                                   |
-| Explorer          | We run the following explorer                                       | Explorer url             |                                                                                 |
-| Proactive testing | We proactively test juno functionality before / After every upgrade | Report url               |                                                                                 |
-| Other             | anything else                                                       |                          |                                                                                 |
 
 ### Governance
 
