@@ -50,6 +50,8 @@ $$
 \text{delegation} = \left( \frac{15{,}000{,}000}{\text{total points}} \right) \times \text{points of validator}
 $$
 
+Top 15 validators are subject to a point reduction based on their position on the set. Set position is calculated without counting delegation from the old delegation programs.
+
 ### Who Can Apply? Validator Requirements
 
 Validators must meet the following criteria to be eligible for delegation:
