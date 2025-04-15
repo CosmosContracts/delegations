@@ -1,4 +1,4 @@
-# -Validator Name- Delegation Program Application
+# Life and Crypto Delegation Program Application
 
 ## Description
 
@@ -32,8 +32,6 @@ If developers are the flesh, then the community is the blood of the project.
 Interaction with the community is very important.
 We interact with the Russian-speaking community in telegram chats of various communities and in a Twitter account with an English-speaking audience.
 
-For example, twitter posts, blog articles, youtube videos, any other social contribution.
-
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
 | [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Juno validator. | [1](https://x.com/lifeandcrypto_/status/1872947455232528891) [2](https://x.com/lifeandcrypto_/status/1909260345358598486) [3](https://x.com/lifeandcrypto_/status/1910325360647864389) [4](https://x.com/lifeandcrypto_/status/1910336933764489568) [5](https://x.com/lifeandcrypto_/status/1910812607998468147) [6](https://x.com/lifeandcrypto_/status/1911429885588894117) [7](https://x.com/lifeandcrypto_/status/1912065543126811099) [8](https://x.com/lifeandcrypto_/status/1912070867242066322) | |  
@@ -44,12 +42,15 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 
 ### Open category
 
-Write here if you did anything that you think should be compensated with a delegation, and doesn't fit any other category.
+We write simple guides and articles for beginner cryptographers so that they can more easily pass this line from web2 to web3.
+We introduce projects where we are validators.
 
 | Name | Description | Relevant URLs | Additional Details |
 | ---- | ----------- | ------------- | ------------------ |
-| Name | Description | URLs          |                    |
+| Juno: Project Overview| We tell about the Juno project | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/all-about-juno/juno-project-overview) | |
+| Staking JUNO: Step by Step Guide| Juno Token Staking Guide via Keplr Wallet| [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/staking-juno-step-by-step-guide) | |
+| What is Blockchain| A little history and understanding for beginners | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/what-is-blockchain)| |
+| How a Block Works in a Blockchain| Explaining the working principle of blockchain for beginners | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/how-a-block-works-in-a-blockchain) | |
+| What is Staking? | Introducing Staking to Newbies | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/what-is-staking)| |
 
-## Notes
 
-Write here if you have additional notes for the reviewer committee.
