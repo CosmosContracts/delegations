@@ -1,13 +1,13 @@
 # Juno Delegation Program
 
-In alignment with the Juno Roadmap, the network requires a revised and more focused delegation program. Targeting the same objectives as the Roadmap, this new program is centered around dApp developers, infrastructure providers, and content creators.
+In alignment with the Juno Roadmap, the network requires a revised and more focused delegation program. Targeting the same objectives as the Roadmap, this new program is centered around supporting dApp developers, active infrastructure providers, and consistent content creators.
 
 ## Program Objectives
 
 - Incentivize dApp development on the Juno network stack
 - Support infrastructure services provided by validators
-- Encourage community engagement and marketing efforts
-- Promote participation in network governance and discussions
+- Encourage consistent community engagement and marketing efforts
+- Encourage and promote participation in network governance and discussions
 
 ## Delegation Program Definition
 
@@ -63,6 +63,8 @@ Validators must meet the following criteria to be eligible for delegation:
 5. Maintain at least 95% uptime at the time of evaluation
 6. Have no slashing history for double signing or downtime in the past year
 7. Be created before April 2025 (presence in the active set is not required)
+8. Submit all infrastructure contributions to Chain Registry prior to submitting your application
+9. All contributions must be your original work, please do not simply fork ping.pub and submit this as a contribution, it will not count toward your point total
 
 ### Kintsugi Validator & Conflict of Interest
 
