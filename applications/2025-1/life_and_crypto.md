@@ -15,7 +15,16 @@ Our server is located in France. At the moment we validate 5 networks: [Juno](ht
 | **Commission** | 5% |
 | **Address**    | junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85        |
 
-## Categories
+## Categories 
+
+### Mainnet Infra
+
+Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive nodes, etc?
+
+| Service       | Description                                      | Relevant URLs                  | Additional Details            |
+| ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
+| Validator     | Mainet validator                                 |  [link](https://ping.pub/juno/staking/junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85)                              |                               |
+
 
 ### Governance
 
