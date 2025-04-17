@@ -64,7 +64,6 @@ Validators must meet the following criteria to be eligible for delegation:
 6. Have no slashing history for double signing or downtime in the past year
 7. Be created before April 2025 (presence in the active set is not required)
 8. Submit all infrastructure contributions to Chain Registry prior to submitting your application
-9. All contributions must be your original work, please do not simply fork ping.pub and submit this as a contribution, it will not count toward your point total
 
 ### Kintsugi Validator & Conflict of Interest
 
