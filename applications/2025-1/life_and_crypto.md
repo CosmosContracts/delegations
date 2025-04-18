@@ -19,7 +19,7 @@ Our server is located in France. At the moment we validate 5 networks: [Juno](ht
 
 ### Mainnet Infra
 
-WE became a validator on December 12, 2024. We actively participate in voting and monitor the timely upgrade of the network.
+We became a validator on December 12, 2024. We actively participate in voting and monitor the timely upgrade of the network.
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
