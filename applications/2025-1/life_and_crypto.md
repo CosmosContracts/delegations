@@ -19,7 +19,7 @@ Our server is located in France. At the moment we validate 5 networks: [Juno](ht
 
 ### Mainnet Infra
 
-Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive nodes, etc?
+WE became a validator on December 12, 2024. We actively participate in voting and monitor the timely upgrade of the network.
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
@@ -62,4 +62,11 @@ We introduce projects where we are validators.
 | How a Block Works in a Blockchain| Explaining the working principle of blockchain for beginners | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/how-a-block-works-in-a-blockchain) | |
 | What is Staking? | Introducing Staking to Newbies | [Article](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/what-is-staking)| |
 
+### Contacts
 
+| Name | Description | Relevant URLs | Additional Details |
+| ---- | ----------- | ------------- | ------------------ |
+| Twitter (X)| Team Twitter | [Link](https://x.com/lifeandcrypto_) ||
+| GitBook| Team Gitbook | [Link](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en) ||
+| GitHub | Team GitHub | [Link](https://github.com/Life-and-Crypto) ||
+| Discord | Team Discord | [Link](https://discord.gg/48bcV7S8) ||
