@@ -23,7 +23,7 @@ We became a validator on December 12, 2024. We actively participate in voting an
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| Validator     | Mainet validator                                 |  [link](https://ping.pub/juno/staking/junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85)                              |                               |
+| Validator     | Mainet validator                                 |  [Link](https://ping.pub/juno/staking/junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85)                              |                               |
 
 
 ### Governance
