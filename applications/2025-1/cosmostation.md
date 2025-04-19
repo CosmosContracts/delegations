@@ -53,7 +53,9 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
-| Social name | Description | URLs          |                    |
+| Twitter | Cosmostation Mobile supports Juno CW-20 | https://x.com/CosmostationVD/status/1491046488327483393          |                    |
+| Twitter | Cosmostation governance participation discussion | https://x.com/CosmostationVD/status/1503589432896946178          |                    |
+| Twitter | Juno Lupercalia mainnet upgrade related post | https://x.com/CosmostationVD/status/1512271333216120835          |                    |
 
 ### Open category
 
