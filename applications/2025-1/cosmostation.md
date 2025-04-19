@@ -37,25 +37,20 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 
 ### Governance
 
-Fill this table to indicate your activity on juno governance
-
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| Governance votes       | We are voting all the governance proposals                                              | Explorer URLs |                    |
-| Governance involvement | We share governance reports on twitter, discuss on the forum, engage with the community |               |                    |
-| Other                  | Anything else                                                                           |               |                    |
+| Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa |                    |
+| Governance involvement | We share governance reports on twitter, discuss on the forum, engage with the community | https://x.com/CosmostationVD/status/1503589432896946178              |                    |
 
 ### Community
-
-Fill this table to indicate your contributions for the growth of the juno community.
-
-For example, twitter posts, blog articles, youtube videos, any other social contribution.
 
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
 | Twitter | Cosmostation Mobile supports Juno CW-20 | https://x.com/CosmostationVD/status/1491046488327483393          |                    |
 | Twitter | Cosmostation governance participation discussion | https://x.com/CosmostationVD/status/1503589432896946178          |                    |
 | Twitter | Juno Lupercalia mainnet upgrade related post | https://x.com/CosmostationVD/status/1512271333216120835          |                    |
+| Twitter | Juno v18 Epona upgrade notice | https://x.com/CosmostationVD/status/1734234083981676968          |                    |
+| Medium | Juno and Cosmostation Announce Strategic Partnership | https://medium.com/cosmostation/juno-and-cosmostation-announce-strategic-partnership-746cdd60fb82          |                    |
 
 ### Open category
 
