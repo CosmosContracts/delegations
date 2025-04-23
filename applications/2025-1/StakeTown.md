@@ -1,4 +1,4 @@
-# -StakeTown- Delegation Program Application
+# StakeTown - Delegation Program Application
 
 ## Description
 
