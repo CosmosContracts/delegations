@@ -14,38 +14,27 @@ Cosmostation is an institutional-grade cryptocurrency infrastructure provider, m
 
 ## Categories
 
-### dAPPs - Any decentralized application built on top of Juno
-
-Fill this category if you are building anything on Juno. One row per project.
-
-| Name         | Description         | Relevant URLs | Is the project Live?   |
-| ------------ | ------------------- | ------------- | ---------------------- |
-| Project name | Project description | Relevant URLS | Live/Building/Prospect |
 
 ### Mainnet Infra
 
-Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive nodes, etc?
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| Relayer       | We relay the following channels ...              | Explorer url of your addresses | -                             |
-| RPCs          | We provide public RPCs / LCD / gRPC endpoints    | URL of your endpoints          | i.e. number of requests, logs |
-| Archive nodes | We provide archive nodes from block x to block y | URL of archive node            |                               |
-| Explorer      | We run the following explorer                    | Explorer url                   |                               |
-| Other         | anything else                                    |                                |                               |
+| RPCs          | We provide public RPC endpoints    | https://rpc-juno.cosmostation.io/          | N/A |
+| Public Snapshot | We provide public snapshot | https://snapshot.cosmostation.io/juno/            | Snapshots are taken in every 6 hours                              |
 
 
 ### Governance
 
-| Name                   | Description                                                                             | Relevant URLs | Additional Details |
-| ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
+| Name                   | Description                                                                             | Relevant URLs |
+| ---------------------- | --------------------------------------------------------------------------------------- | ------------- |
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa |                    |
 | Governance involvement | We share governance reports on twitter, discuss on the forum, engage with the community | https://x.com/CosmostationVD/status/1503589432896946178              |                    |
 
 ### Community
 
-| Name        | Description | Relevant URLs | Additional Details |
-| ----------- | ----------- | ------------- | ------------------ |
+| Name        | Description | Relevant URLs | 
+| ----------- | ----------- | ------------- | 
 | Twitter | Cosmostation Mobile supports Juno CW-20 | https://x.com/CosmostationVD/status/1491046488327483393          |                    |
 | Twitter | Cosmostation governance participation discussion | https://x.com/CosmostationVD/status/1503589432896946178          |                    |
 | Twitter | Juno Lupercalia mainnet upgrade related post | https://x.com/CosmostationVD/status/1512271333216120835          |                    |
@@ -54,12 +43,7 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 
 ### Open category
 
-Write here if you did anything that you think should be compensated with a delegation, and doesn't fit any other category.
-
-| Name | Description | Relevant URLs | Additional Details |
-| ---- | ----------- | ------------- | ------------------ |
-| Name | Description | URLs          |                    |
-
-## Notes
-
-Write here if you have additional notes for the reviewer committee.
+| Name | Description | Relevant URLs | 
+| ---- | ----------- | ------------- | 
+| Extension | Browser extensions supports Juno network | https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon          |
+| Mobile Wallet (Android / iOS) | Mobile wallet supports Juno network | https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion&hl=en https://apps.apple.com/us/app/cosmostation/id1459830339 |
