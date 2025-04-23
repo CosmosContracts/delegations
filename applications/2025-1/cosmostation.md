@@ -45,5 +45,5 @@ Cosmostation is an institutional-grade cryptocurrency infrastructure provider, m
 
 | Name | Description | Relevant URLs | 
 | ---- | ----------- | ------------- | 
-| Extension | Browser extensions supports Juno network | https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon          |
+| Extension | Browser extension supports Juno network | https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon          |
 | Mobile Wallet (Android / iOS) | Mobile wallet supports Juno network | https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion&hl=en https://apps.apple.com/us/app/cosmostation/id1459830339 |
