@@ -14,7 +14,7 @@ We joined Juno immediately after genesis, and we contribute to the ecosystem by 
 | -------------- | ----------------------- |
 | **Moniker**    | BlueStake               |
 | **Commission** | 5%                      |
-| **Address**    | juno1z3svprqzmquw6mckh6rgyt0dmd4yhv7c9zzgmp         |
+| **Address**    | junovaloper1z3svprqzmquw6mckh6rgyt0dmd4yhv7c6l58qc         |
 
 
 ## Categories
