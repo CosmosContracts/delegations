@@ -33,8 +33,8 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| Relayer       | We relay the following channels: Juno<>Osmosis, Juno<>CosmosHub, Juno<>Osmosis              | https://relayers.smartstake.io/relayer/44937E3DA9AA699A | -                             |
-| RPCs          | We provide public RPCs / LCD endpoints    | https://juno-rpc.gatadao.com  https://juno-rpc.gatadao.com          | Indexing ON |
+| Relayer       | We relay the following channels: Juno<>Osmosis, Juno<>CosmosHub             | https://relayers.smartstake.io/relayer/44937E3DA9AA699A | -                             |
+| RPCs          | We provide public RPCs / LCD endpoints    | https://juno-rpc.gatadao.com  https://juno-api.gatadao.com          | Indexing ON , restake ON |
 
 
 ### Testnet Infra
