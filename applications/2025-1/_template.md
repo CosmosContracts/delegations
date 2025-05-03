@@ -1,4 +1,4 @@
-# -Validator Name- Delegation Program Application
+# -ZenLounge Validator- Delegation Program Application
 
 ## Description
 
