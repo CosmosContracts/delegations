@@ -24,7 +24,8 @@ We also track chain health scores, validator and endpoint performance and decent
 
 | Name         | Description         | Relevant URLs | Is the project Live?   |
 | ------------ | ------------------- | ------------- | ---------------------- |
-| Stake-Hub | https://stake-hub.xyz/juno & stake-hub.xyz/performance/juno | Live & Actively Building |
+| Stake-Hub | Mainnet Services | https://stake-hub.xyz/juno & https://stake-hub.xyz/performance/juno | Live & Actively Building |
+| Stake-Hub | Testnet Services | https://www.stake-hub.xyz/junotestnet & https://www.stake-hub.xyz/performance/junotestnet | Live & Actively Building |
 
 ### Mainnet Infra
 
@@ -32,9 +33,11 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| Relayer       | We are the sole Oraichain (ch-527) relayer | https://explorer.chainroot.io/juno/accounts/juno13sz87ha597nnseexmfwe3eq47ck3d02trfyjnd
-| RPCs          | We provide public RPC & REST endpoints | https://juno-rpc.kleomedes.network & https://juno-api.kleomedes.network | Success rate of 100%, no errors or timeouts; verify at: https://www.stake-hub.xyz/performance/juno
-| Explorer      | https://www.stake-hub.xyz/juno
+| Relayer       | Oraichain (ch-527) | https://explorer.chainroot.io/juno/accounts/juno13sz87ha597nnseexmfwe3eq47ck3d02trfyjnd | We are the sole Oraichain relayer |
+| RPCs          | Public RPC, gRPC & REST endpoints | https://juno-rpc.kleomedes.network; juno.grpc.kleomedes.network; https://juno-api.kleomedes.network | Success rate of 100%, no errors or timeouts; verify at: https://www.stake-hub.xyz/performance/juno
+| Explorer      | Staking & re-staking via Stake Hub | https://www.stake-hub.xyz/juno | Stake Hub also provides mainnet chains with performance data regarding validator sets, infrastructure and other decentralization metrics.
+
+We are also in the process of creating and maintaining the following services for mainnet: snapshot, seed and peers
 
 ### Testnet Infra
 
@@ -43,8 +46,8 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 | Service           | Description                                                         | Relevant URLs            | Additional Details                                                              |
 | ----------------- | ------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------- |
 | Validator         | We run a validator on testnet                                       | https://explorer.chainroot.io/juno-testnet/validators/junovaloper14fykmqpqzv2schuljaucqdmzvadytkg0t0u2pr
-| RPCs              | We provide public RPC & REST endpoints                              | https://junotestnet-rpc.kleomedes.network/ & https://junotestnet-api.kleomedes.network/ | Success rate of 100%, no errors or timeouts; verify at: https://www.stake-hub.xyz/performance/junotestnet
-| Explorer          | https://www.stake-hub.xyz/junotestnet
+| RPCs              | Public RPC, gRPC & REST endpoints                              | https://junotestnet-rpc.kleomedes.network/; junotestnet.gprc.kleomedes.network; https://junotestnet-api.kleomedes.network/ | Success rate of 100%, no errors or timeouts; verify at: https://www.stake-hub.xyz/performance/junotestnet
+| Explorer          | Staking & re-staking via Stake Hub | https://www.stake-hub.xyz/junotestnet | Stake Hub also provides testnet chains with performance data regarding validator sets, infrastructure and other decentralization metrics.
 
 ### Governance
 
@@ -53,11 +56,8 @@ Fill this table to indicate your activity on juno governance
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | We vote yes on all upgrades and other proposals focused on chain / subdao maintenance. We abstain from funding proposals so that our delegates can vote on their own conscience. | https://explorer.chainroot.io/juno/validators/junovaloper1x8u2ypdr35802tjyjqyxan8x85fzxe6sk0qmh8 |
-| Governance involvement | Historically, Avi has been involved with governance discussions. Avi also served on the Juno Growth Fund SubDAO and is now serving on the Delegations SubDAO.
-| Gov Discussion Example | https://common.xyz/juno/discussion/10996-disable-juno-growth-fund-and-return-funds-to-community-pool 
-| Gov Proposal Example   | https://common.xyz/juno/discussion/11291-upgrade-juno-subdaos-to-dao-dao-v2
-| Delegations SubDAO     | Avi (currently an active member)
-| Juno Growth Fund SubDAO| Avi (elected lead member for 6 months -- SubDAO is now inactive)
+| Governance involvement | Historically, Avi has been involved with governance discussions. Avi also served on the Juno Growth Fund SubDAO and is now serving on the Delegations SubDAO. | Gov Discussion Example: https://common.xyz/juno/discussion/10996-disable-juno-growth-fund-and-return-funds-to-community-pool; Gov Proposal Example: https://common.xyz/juno/discussion/11291-upgrade-juno-subdaos-to-dao-dao-v2
+| SubDAO Participation   | Avi is currently on the delegations SubDAO and previously served on the Juno Growth Fund SubDAO as the elected lead member for 6 months.
 
 ### Community
 
@@ -69,8 +69,8 @@ Write here if you did anything that you think should be compensated with a deleg
 
 | Name | Description | Relevant URLs | Additional Details |
 | ---- | ----------- | ------------- | ------------------ |
-| We cleaned up the chain registry repo by testing and removing all inactive endpoints and explorers. | https://github.com/cosmos/chain-registry/pull/6168
-| Uni-6 Testnet Archive + Update Juno Mainnet and Uni-7 Testnet References | https://github.com/cosmos/chain-registry/pull/6210
+| Cosmos Registry Maintenance | We tested and removed all inactive endpoints and explorers | https://github.com/cosmos/chain-registry/pull/6168
+| Cosmos Registry Maintenance | Uni-6 Testnet Archive + Update Juno Mainnet and Uni-7 Testnet References | https://github.com/cosmos/chain-registry/pull/6210
 
 ## Notes
 
