@@ -34,7 +34,7 @@ Fill this table to indicate your activity on juno governance
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper1s0lankh33kprer2l22nank5rvsuh9ksahu7s62 |
 | Governance involvement | We share governance reports on twitter, discuss on the forum, engage with the community | https://x.com/encapsulate_xyz/status/1886764641453269331 https://x.com/encapsulate_xyz/status/1892516545487859813              |
 
-### Community
+### Open category
 
 | Name   | Description | Relevant URLs |
 |--------|-------------|----------------|
