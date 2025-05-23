@@ -62,18 +62,19 @@ We’re excited to contribute, collaborate, and grow together with the blockchai
 
 ### Testnet Infra
 
-| Service      | Description                        | Relevant URLs | Additional Details                                 |
-| ------------ | ---------------------------------- | ------------- | -------------------------------------------------- |
-| Relayer      | Juno Osmosis cross-chain relaying  | -             | Support for additional chains available on request |
-| Archive Node | Archive node for Juno              | -             | Open to running and maintaining upon request       |
-| RPC          | Public RPC endpoint                | RPC           | -                                                  |
-| API          | Public API endpoint                | API           | -                                                  |
-| gRPC         | Public gRPC endpoint               | gRPC          | -                                                  |
-| Explorer     | Juno blockchain explorer           | Explorer      | -                                                  |
-| Snapshot     | Pruned snapshots every 5 hours     | Snapshot      | -                                                  |
-| StateSync    | State sync support                 | StateSync     | -                                                  |
-| Addrbook     | Updated address book               | Addrbook      | -                                                  |
-| LivePeer     | Live peer list                     | Peers         | -                                                  |
+| Service      | Description                       | Relevant URLs                                                                 | Additional Details                                 |
+| ------------ | --------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------- |
+| Relayer      | Juno Osmosis cross-chain relaying | -                                                                             | Support for additional chains available on request |
+| Archive Node | Archive node for Juno             | -                                                                             | Open to running and maintaining upon request       |
+| RPC          | Public RPC endpoint               | https://rpc.juno-testnet.validatus.com                                        | Index ON, Snapshot interval: 1000                  |
+| API          | Public API endpoint               | https://api.juno-testnet.validatus.com                                        | Index ON, Snapshot interval: 1000                  |
+| gRPC         | Public gRPC endpoint              | https://grpc.juno-testnet.validatus.com                                       | Index ON, Snapshot interval: 1000                  |
+| Explorer     | Juno blockchain explorer          | Explorer                                                                      | -                                                  |
+| Snapshot     | Pruned snapshots every 5 hours    | Snapshot                                                                      | -                                                  |
+| StateSync    | State sync support                | StateSync                                                                     | -                                                  |
+| Addrbook     | Updated address book              | Addrbook                                                                      | -                                                  |
+| LivePeer     | Live peer list                    | Peers                                                                         | -                                                  |
+| Seed         | Seed node                         | 91fdd8f882867a6765ae0248bf1731a5e8d0300f@seed.juno-testnet.validatus.com:2010 | 
 
 
 ### Governance
