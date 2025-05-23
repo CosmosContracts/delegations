@@ -23,7 +23,7 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 
 | Service       | Description                                      | Relevant URLs                  | Additional Details            |
 | ------------- | ------------------------------------------------ | ------------------------------ | ----------------------------- |
-| RPCs          | We provide public RPCs / LCD / gRPC endpoints    | [API](https://api.celestia.mainnet.encapsulate.xyz)/[RPC](https://rpc.juno.mainnet.encapsulate.xyz)/[gRPC](https://grpc.juno.mainnet.encapsulate.xyz:443)          | N/A |
+| RPCs          | We provide public RPCs / LCD / gRPC endpoints    | [API](https://api.juno.mainnet.encapsulate.xyz)/[RPC](https://rpc.juno.mainnet.encapsulate.xyz)/[gRPC](https://grpc.juno.mainnet.encapsulate.xyz:443)          | N/A |
 
 ### Governance
 
