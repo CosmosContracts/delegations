@@ -24,6 +24,7 @@ Fill this category if you are building anything on Juno. One row per project.
 | ------------ | ------------------- | ------------- | ---------------------- |
 | RPC Scanner Mainnet | Always relevant endopints | https://services.owlstake.com/docs/mainnet/juno/public-rpc | Live |
 | Decentralization Analytics Mainnet | Decentralization and concentration of Juno servers | https://services.owlstake.com/docs/mainnet/juno/decentralization | Live |
+| Juno Onchain Analytics Mainnet | Our Analytics platform offers comprehensive insights into validator performance and network activity across multiple Cosmos ecosystem blockchains, visualizing key metrics such as pending undelegations, validator status, and network health in an intuitive dashboard. The system aggregates real-time blockchain data into a structured database, enabling users to monitor validator statistics, track staking activities, and analyze network trends through an elegant, responsive interface. | https://dashboard.owlstake.com/juno | Live |
 
 ### Mainnet Infra
 
